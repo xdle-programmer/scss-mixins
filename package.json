@@ -1,6 +1,6 @@
 {
-  "name": "scss-mixins",
-  "version": "1.0.0",
+  "name": "frontend-scss-mixins",
+  "version": "1.0.2",
   "description": "SCSS Mixins",
   "main": "src/style.scss",
   "browserslist": [
